@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\LikeLion\\LikeLion\\Program.cs",
               "RelativeDocumentMoniker": "LikeLion\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\LikeLion\\LikeLion\\Program.cs",
-              "RelativeToolTip": "LikeLion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\LikeLion\\LikeLion\\Program.cs*",
+              "RelativeToolTip": "LikeLion\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwD4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T00:54:04.18Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
