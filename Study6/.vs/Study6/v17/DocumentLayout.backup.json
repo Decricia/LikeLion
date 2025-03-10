@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8101DB3-289A-4AC9-9112-97F66D6E360B}|Study6\\Study6.csproj|c:\\users\\user\\documents\\github\\likelion\\study6\\study6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8101DB3-289A-4AC9-9112-97F66D6E360B}|Study6\\Study6.csproj|solutionrelative:study6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study6\\Study6\\Program.cs",
+              "RelativeDocumentMoniker": "Study6\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study6\\Study6\\Program.cs",
+              "RelativeToolTip": "Study6\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwGAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:31:54.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

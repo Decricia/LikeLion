@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study0305\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0543BCE8-7C64-469C-8EB9-95DDC3A09F06}|Study0305\\Study0305.csproj|c:\\users\\user\\documents\\github\\likelion\\study0305\\study0305\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0543BCE8-7C64-469C-8EB9-95DDC3A09F06}|Study0305\\Study0305.csproj|solutionrelative:study0305\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study0305\\Study0305\\Program.cs",
+              "RelativeDocumentMoniker": "Study0305\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LikeLion\\Study0305\\Study0305\\Program.cs",
+              "RelativeToolTip": "Study0305\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:57:56.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
